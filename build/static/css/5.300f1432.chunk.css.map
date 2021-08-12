@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/homepage/HomePage.module.css"],"names":[],"mappings":"AAAA,uBACE,gBAAiB,CACjB,iBAAkB,CAClB,UACF","file":"5.300f1432.chunk.css","sourcesContent":[".title {\n  margin: 50px auto;\n  text-align: center;\n  color: rgb(0, 0, 0);\n}\n"]}
